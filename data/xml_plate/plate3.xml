@@ -1,0 +1,26 @@
+<annotation>
+	<folder>123</folder>
+	<filename>205d.jpg</filename>
+	<path>D:\zhangchang\zip\123\205d.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>720</width>
+		<height>288</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>blue</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>183</xmin>
+			<ymin>177</ymin>
+			<xmax>322</xmax>
+			<ymax>199</ymax>
+		</bndbox>
+	</object>
+</annotation>

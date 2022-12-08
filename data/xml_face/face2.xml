@@ -1,0 +1,26 @@
+<annotation>
+	<folder>img</folder>
+	<filename>AF108.jpg</filename>
+	<path>C:\Users\Administrator\Desktop\labelImg_windows_v1.7\data\img\AF108.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>350</width>
+		<height>350</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>face</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>87</xmin>
+			<ymin>68</ymin>
+			<xmax>282</xmax>
+			<ymax>312</ymax>
+		</bndbox>
+	</object>
+</annotation>
