@@ -8,16 +8,13 @@
 待处理图片及对应的xml标注文件放在```/data```文件夹下。
 
 ### Demo运行
-（1）XOR方法:
-
+（1）XOR方法：
   ```python xor.py```
  
-（2）Shuffle方法:
-
+（2）Shuffle方法：
   ```python shuffle.py```
  
-（3）Blur+XOR方法:
-
+（3）Blur+XOR方法：
   ```python blur_xor.py```
  
  ### 结果展示
